@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Acredito que a tecnologia tem o poder de mudar a vida das pessoas, e cada vez mais quero desenvolver minhas habilidades para contribuir com essa mudança.
-
 - Javascript
 - React Js
 - Next

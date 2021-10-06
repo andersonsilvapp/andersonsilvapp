@@ -6,7 +6,6 @@ Meu nome é Anderson, tenho 27 anos e estou Desenvolvedor front-end. Meu foco é
 
 - [API](https://github.com/andersonsilvapp/api-order-online)
 - [Front](https://github.com/andersonsilvapp/front-order-online)
-- 
 <!--
 **andersonsilvapp/andersonsilvapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

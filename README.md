@@ -1,2 +1,3 @@
-### Olá! 👋
+### Jr Software Developer | React & React native | Javascript
 
+Meu propósito é solucionar problemas do mundo real por meio da tecnologia, facilitando de alguma maneira a vida das pessoas. Apesar do pouco tempo de experiência, fui responsável por desenvolver diversas features para um aplicativo em React native que está em produção e com vários usuários ativos. Além do sólido conhecimento em Javascript, Typescript, React js e React native, já vi também um pouco de Next, Node js, Postgres, Docker...
